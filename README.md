@@ -9,3 +9,13 @@
 3. Alexander Davidow - Database Designer
 4. Justin Rather - Data Wrangler
 5. Samira Gulyamov - SQL Writer
+
+## Case Summary:
+
+## Conceptual Model:
+
+## Data quality assessment:
+
+## Data cleaning process:
+
+## Queries:
