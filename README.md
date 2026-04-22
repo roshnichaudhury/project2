@@ -20,6 +20,11 @@ The goal of this project is to clean and standardize the data, design a relation
 ## Conceptual Model:
 
 ## Data Quality Assessment:
+After looking at the datasets, we noticed several quality issues that made it unsuitable to use for data analysis. First, many fields had inconsistent formats, including dates stored in multiple formats and discounts being stored in different ways such as percentages, text, and numeric values. In addition, the customer_info field combined multiple pieces of information, such as customer names and notes, into a singular column, making it difficult to analyze customer data. 
+
+There were also inconsistencies with the product data, including the presence of alternate SKUs, parent SKUs, and slightly different product descriptions for what seemed to be the same item. Location data was also inconsistent, with variations in country names and shipping information sometimes recorded as notes such as "Same as billing" or "Dorm pickup".
+
+Finally, some fields contained missing or incomplete values, and category names were not always standardized across the dataset. These issues created redundancy, reduced accuracy, and made it necessary to clean the data before building the database and running queries.
 
 ## Data Cleaning Process:
 
