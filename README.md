@@ -14,8 +14,8 @@
 
 ## Conceptual Model:
 
-## Data quality assessment:
+## Data Quality Assessment:
 
-## Data cleaning process:
+## Data Cleaning Process:
 
 ## Queries:
