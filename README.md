@@ -20,6 +20,8 @@ The goal of this project is to clean and standardize the data, design a relation
 ## Conceptual Model:
 <img width="1800" height="1169" alt="image" src="https://github.com/user-attachments/assets/0e6b3f80-0d2e-4a3f-afba-6511c2a8ef3a" />
 
+The conceptual model (seen above) represents the main entities and relationships in the Northline Outfitters database. The primary entities include Customers, Orders, Order_Line, Products, Vendors, Employees, Managers, Categories, and Country. Customers place orders, and each order is handled by an employee. Each employee has an manager. Each order can contain multiple order lines, where each line represents a specific product and includes details like quantity, pricing, discounts, and taxes. Products are grouped by categories and may include parent-child relationships to represent variations. Vendors supply products, and this relationship is modeled as a many-to-many relationship through the Product_Vendor table. Additionally, orders are linked to a country to track where each purchase is made. These relationships allow the data to be organized and support meaningful analysis across sales, products, employees, and vendors. 
+
 ## Data Quality Assessment:
 After looking at the datasets, we noticed several quality issues that made it unsuitable to use for data analysis. First, many fields had inconsistent formats, including dates stored in multiple formats and discounts being stored in different ways such as percentages, text, and numeric values. In addition, the customer_info field combined multiple pieces of information, such as customer names and notes, into a singular column, making it difficult to analyze customer data. 
 
