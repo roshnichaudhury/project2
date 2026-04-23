@@ -37,7 +37,7 @@ Finally, some fields contained missing or incomplete values, and category names 
 1.	Which products generated the highest total sales revenue, by country?
 
 SELECT 
-    c.Country_name,
+//    c.Country_name,
     p.Product_sku,
     p.Product_description,
     SUM(ol.line_total) AS total_revenue
