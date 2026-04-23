@@ -18,6 +18,7 @@ Because of this, the data contains several issues, including inconsistent format
 The goal of this project is to clean and standardize the data, design a relational database model, and use SQL queries to answer key business questions. This process demonstrates how proper data organization improves accuracy, reduces redundancy, and supports better decision-making. 
 
 ## Conceptual Model:
+<img width="1800" height="1169" alt="image" src="https://github.com/user-attachments/assets/0e6b3f80-0d2e-4a3f-afba-6511c2a8ef3a" />
 
 ## Data Quality Assessment:
 After looking at the datasets, we noticed several quality issues that made it unsuitable to use for data analysis. First, many fields had inconsistent formats, including dates stored in multiple formats and discounts being stored in different ways such as percentages, text, and numeric values. In addition, the customer_info field combined multiple pieces of information, such as customer names and notes, into a singular column, making it difficult to analyze customer data. 
