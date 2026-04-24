@@ -40,7 +40,8 @@ Finally, the cleaned data was reorganized to align with the database model. Data
 
 1.	Which products generated the highest total sales revenue, by country?
 
-<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/7221e8f7-fd26-4d10-8f22-636faf1215c1" />
+<img width="1353" height="523" alt="image" src="https://github.com/user-attachments/assets/6e301048-1408-4920-9c01-4c9549583580" />
+
 
 
 Business Justification: 
@@ -48,19 +49,7 @@ The reason this could be important for Northline Outfitters is because it allows
 
 2.	Which employees handled the largest number of orders, and how do their results compare with other employees under the same manager?
 
-SELECT 
-    e.Employee_ID,
-    e.Manager_Manager_ID,
-    COUNT(o.Order_ID) AS total_orders
-FROM Employee e
-LEFT JOIN Orders o 
-    ON e.Employee_ID = o.Employee_ID
-GROUP BY 
-    e.Employee_ID,
-    e.Manager_Manager_ID
-ORDER BY 
-    e.Manager_Manager_ID,
-    total_orders DESC;
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/7221e8f7-fd26-4d10-8f22-636faf1215c1" />
 
 Business Justification: 
 The reason this could be important for Northline  Outfitters is because it shows higher levels of management how different employees are doing at the selling level which could be important for performance evaluations or figuring out root causes in case revenue is dropping.
