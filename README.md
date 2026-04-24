@@ -18,7 +18,8 @@ Because of this, the data contains several issues, including inconsistent format
 The goal of this project is to clean and standardize the data, design a relational database model, and use SQL queries to answer key business questions. This process demonstrates how proper data organization improves accuracy, reduces redundancy, and supports better decision-making. 
 
 ## Conceptual Model:
-<img width="1800" height="1169" alt="image" src="https://github.com/user-attachments/assets/c406ede1-6d69-4b60-833c-2aa785dd5c47" />
+<img width="1047" height="990" alt="image" src="https://github.com/user-attachments/assets/1a8a916a-e880-4549-a135-f04f717d489c" />
+
 
 
 
