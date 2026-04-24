@@ -72,17 +72,8 @@ Business Justification:
 
 5.	Which products are sold the most in terms of quantity?
 
-SELECT 
-    p.Product_sku,
-    p.Product_description,
-    SUM(ol.Quantity) AS total_quantity_sold
-FROM Product p
-JOIN Order_Line ol 
-    ON p.Product_sku = ol.Product_Product_sku
-GROUP BY 
-    p.Product_sku,
-    p.Product_description
-ORDER BY total_quantity_sold DESC;
+<img width="1335" height="522" alt="image" src="https://github.com/user-attachments/assets/edeeabfc-f59c-4cee-bbda-dc4cda6c9b0d" />
+
 
 Business Justification:
 
