@@ -37,25 +37,8 @@ Finally, the cleaned data was reorganized to align with the database model. Data
 
 1.	Which products generated the highest total sales revenue, by country?
 
-SELECT 
-//    c.Country_name,
-    p.Product_sku,
-    p.Product_description,
-    SUM(ol.line_total) AS total_revenue
-FROM Orders o
-JOIN Country c 
-    ON o.Country_code = c.Country_code
-JOIN Order_Line ol 
-    ON o.Order_ID = ol.Orders_Line_ID
-JOIN Product p 
-    ON ol.Product_Product_sku = p.Product_sku
-GROUP BY 
-    c.Country_name,
-    p.Product_sku,
-    p.Product_description
-ORDER BY 
-    c.Country_name,
-    total_revenue DESC;
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/7221e8f7-fd26-4d10-8f22-636faf1215c1" />
+
 
 Business Justification: 
 The reason this could be important for Northline Outfitters is because it allows them to focus their marketing efforts into certain countries that perform better than others and/or leave certain markets if they are severely underperforming.
