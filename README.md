@@ -56,19 +56,8 @@ The reason this could be important for Northline  Outfitters is because it shows
 
 3.	Which vendors supply products that appear in more than one category?
 
-SELECT 
-    v.Vendor_ID,
-    v.Vendor_name,
-    COUNT(DISTINCT p.Category_Category_ID) AS category_count
-FROM Vendor v
-JOIN Product_vendor pv 
-    ON v.Vendor_ID = pv.Vendor_Vendor_ID
-JOIN Product p 
-    ON pv.Product_Product_sku = p.Product_sku
-GROUP BY 
-    v.Vendor_ID,
-    v.Vendor_name
-HAVING COUNT(DISTINCT p.Category_Category_ID) > 1;
+<img width="1334" height="519" alt="image" src="https://github.com/user-attachments/assets/7e70c37d-1b8a-450c-afdb-8ed84d6fbf1a" />
+
 
 Business Justification:
 
