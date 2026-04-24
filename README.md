@@ -64,21 +64,8 @@ Business Justification:
 
 4.	Which customers generate the most total revenue?
 
-SELECT 
-    c.Customer_ID,
-    c.Customer_F_name,
-    c.Customer_L_name,
-    SUM(ol.line_total) AS total_spent
-FROM Customers c
-JOIN Orders o 
-    ON c.Customer_ID = o.Customer_ID
-JOIN Order_Line ol 
-    ON o.Order_ID = ol.Orders_Line_ID
-GROUP BY 
-    c.Customer_ID,
-    c.Customer_F_name,
-    c.Customer_L_name
-ORDER BY total_spent DESC;
+<img width="1365" height="522" alt="image" src="https://github.com/user-attachments/assets/94768084-bb19-4149-b97b-7b2e80cfa3d3" />
+
 
 Business Justification:
 
