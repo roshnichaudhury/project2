@@ -1,0 +1,201 @@
+line_id,order_id,order_date,employee_id,manager_id,customer_f_name,customer_l_name,customer_type,customer_email,payment_method,sku,product_description,category,quantity,unit_price,price_currency,discount,tax,line_total,ship_country,ship_city,ship_state,size,weight,return_flag,notes
+LN-001,UORD-1041,2025-10-11,EMU-202,EMU-M03,Mason,Rivera,Loyalty,masonrivera@gmail.com,Visa,SKU-C-1014,NoteNest Planner,School,1,18.99,USD,0.1,,19.43,US,,,,,N,gift receipt
+LN-002,CORD-1003,2025-10-17,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emmawilson@gmail.com,Visa,SKU-U-1015,BREEZE RING LIGHT,Accessories,3,46.99,CAD,0.05,0.13,,CA,Toronto, ON,one size,,Y,gift receipt
+LN-003,UORD-1031,2025-10-05,EMU-201,EMU-M03,Grace,Hall,Student,gracehall@gmail.com,Interac,SKU-C-1002,Aurora Mechanical Keyboard,Tech,1,89.99,USD,0.05,,97.19,US,,,,,N,manual discount ok
+LN-004,CORD-1021,2025-06-11,EMC-403,EMC-M02,Noah,Smith,Student,noah.smith@example.ca,Visa,SKU-U-1013,InkTrail Journal,School,1,14.99,CAD,0.1,,,CA,Vancouver, BC,one size,,N,
+LN-005,UORD-1054,2025-10-17,EMU-201,EMU-M03,Grace,Hall,Student,grace_hall@school.edu,Cash,SKU-C-1012,Summit Laptop Stand,Accessories,2,39.99,USD,0,0.0825,,US,Seattle, WA,,,Y,late ship
+LN-006,CORD-1032,2025-08-11,EMC-501,EMC-M03,Zoe,Garcia,Standard,zoe.garcia@example.ca,Apple Pay,SKU-C-1012,Summit Laptop Stand,Accessories,1,39.99,CAD,0,0.13,,CA,Toronto, ON,,272 grams,Y,late ship
+LN-007,UORD-1022,2025-09-23,EMU-202,EMU-M03,Owen,Clark,Standard,owenclark@gmail.com,Mastercard,SKU-U-1003,ClickStorm Gaming Mouse,Tech,3,50.99,USD,0.05,0.0825,161.97,US,,,,,Y,gift receipt
+LN-008,UORD-1038,2025-10-10,EMU-301,EMU-M04,Grace,Hall,Student,,Amex,SKU-C-1018,CloudSleeve Laptop Case,Accessories,3,29.99,USD,0.1,0.0825,97.17,US,Seattle, WA,,,N,late ship
+LN-009,UORD-1007,2025-09-28,EMU-201,EMU-M03,Zoe,Garcia,Guest,zoe_garcia@school.edu,Debit,SKU-U-1013,InkTrail Journal,School,2,14.99,USD,0.05,0.07,32.38,US,Austin, TX,,11 ounces,N,late ship
+LN-010,CORD-1049,2025-09-10,EMC-401,EMC-M01,Owen,Clark,Standard,owen.clark@example.ca,Visa,SKU-C-1018,CloudSleeve Laptop Case,Accessories,2,32.49,CAD,0.05,0.13,64.78,CA,Toronto, ON,one size,,N,late ship
+LN-011,CORD-1047,2025-10-12,EMC-401,EMC-M01,Grace,Hall,Guest,,Debit,SKU-C-1010,Glide Mouse Pad,Accessories,2,17.99,CAD,0,0.13,36.7,CA,,,one size,,N,manual discount ok
+LN-012,UORD-1007,2025-09-28,EMU-201,EMU-M03,Zoe,Garcia,Guest,zoe_garcia@school.edu,Debit,SKU-C-1014,NoteNest Planner,School,3,18.99,USD,0,0.07,58.29,US,Austin, TX,,0.6 pound,N,
+LN-013,UORD-1053,2025-10-26,EMU-202,EMU-M03,Ethan,Lee,Standard,ethan_lee@school.edu,Visa,SKU-U-1019,STUDIO WEBCAM COVER,Accessories,2,7.99,USD,0.05,0.07,,US,,,11 inches,,Y,manual discount ok
+LN-014,UORD-1025,2025-10-14,EMU-202,EMU-M03,Ethan,Lee,Guest,ethan_lee@school.edu,Debit,SKU-C-1016,Metro Tote Bag,Lifestyle,2,33.49,USD,0,0.0825,,US,,,,12 ounces,N,manual discount ok
+LN-015,CORD-1007,2025-09-26,EMC-502,EMC-M03,Ethan,Lee,Guest,ethanlee@gmail.com,Visa,SKU-U-1015,Breeze Ring Light,Accessories,1,49.49,CAD,0.05,0.13,,CA,Vancouver, BC,27 centimeters,,N,manual discount ok
+LN-016,CORD-1030,2025-10-26,EMC-401,EMC-M01,Emma,Wilson,Standard,,Visa,SKU-U-1013,InkTrail Journal,School,2,17.49,CAD,0.1,0.13,32.38,CA,,,one size,,N,
+LN-017,CORD-1039,2025-10-31,EMC-501,EMC-M03,Emma,Wilson,Guest,emma_wilson@school.ed,Apple Pay,SKU-U-1013,INKTRAIL JOURNAL,School,1,14.99,CAD,0.1,0.13,16.19,CA,Vancouver, BC,,,N,
+LN-018,UORD-1026,2025-11-14,EMU-301,EMU-M04,Aidan,Brown,Student,aidenbrown@gmail.com,Cash,SKU-C-1014,NoteNest Planner,School,2,16.49,USD,0.05,0.07,38.86,US,,,,0.6 pound,Y,gift receipt
+LN-019,CORD-1010,2025-09-10,EMC-403,EMC-M02,Chloe,Martin,Student,chloemartin@gmail.com,Mastercard,SKU-U-1011,Pulse USB-C Hub,Tech,1,54.99,CAD,0.1,0.13,59.39,CA,Toronto, ON,one size,,N,late ship
+LN-020,UORD-1018,2025-10-26,EMU-103,EMU-M02,Maya,Chen,Standard,maya_chen@school.edu,Mastercard,SKU-C-1016,Metro Tote Bag,Lifestyle,1,34.99,USD,0,0.07,37.79,US,,,10 inches,,N,
+LN-021,UORD-1046,2025-10-22,EMU-301,EMU-M04,Emma,Wilson,Loyalty,emmawilson@gmail.com,Debit,SKU-U-1001,FrostFlex Phone Case,Accessories,1,20.99,USD,0.05,0.07,21.59,US,,,one size,,N,manual discount ok
+LN-022,CORD-1042,2025-09-25,EMC-501,EMC-M03,Ella,Wright,Guest,ella.wright@example.caa,Debit,SKU-U-1013,InkTrail Journal,School,2,13.49,CAD,0.1,0.13,32.38,CA,Toronto, ON,one size,,N,late ship
+LN-023,UORD-1049,2025-09-08,EMU-102,EMU-M01,Owen,Clark,Guest,,Visa,SKU-U-1019,Studio Webcam Cover,Accessories,1,10.49,USD,0.1,,,US,Austin, TX,15 inches,,N,late ship
+LN-024,UORD-1053,2025-10-26,EMU-202,EMU-M03,Ethan,Lee,Standard,ethan_lee@school.edu,Visa,SKU-C-1014,NoteNest Planner,School,2,17.99,USD,0,0.0825,38.86,US,,,11 inches,,Y,gift receipt
+LN-025,UORD-1001,2025-11-18,EMU-202,EMU-M03,Ava,Johnson,Standard,avajohnson@gmail.com,Visa,SKU-C-1002,Aurora Mechanical Keyboard,Tech,2,90.99,USD,0.05,0.0825,97.19,US,Austin, TX,one size,,Y,gift receipt
+LN-026,CORD-1049,2025-09-10,EMC-401,EMC-M01,Owen,Clark,Standard,owen.clark@example.ca,Visa,SKU-U-1009,City Beanie,Apparel,1,25.49,CAD,0.05,0.13,24.83,CA,Toronto, ON,,340 grams,N,manual discount ok
+LN-027,UORD-1032,2025-11-07,EMU-201,EMU-M03,Maya,Chen,Student,maya_chen@school.edu,Mastercard,SKU-U-1005,Halo Desk Lamp,Accessories,3,59.99,USD,0,0.07,194.37,US,,,,0.6 pounds,N,gift receipt
+LN-028,CORD-1036,2025-10-22,EMC-403,EMC-M02,Zoe,Garcia,Standard,zoe.garcia@example.ca,Apple Pay,SKU-C-1018,CloudSleeve Laptop Case,Accessories,1,32.49,CAD,0.1,0.13,32.39,CA,,,38 centimeters,,N,
+LN-029,UORD-1011,2025-09-06,EMU-302,EMU-M04,Chloe,Martin,Standard,chloe_martin@school.edu,Mastercard,SKU-U-1005,Halo Desk Lamp,Accessories,3,59.99,USD,0.1,0.07,194.37,US,Seattle, WA,,12 ounces,N,
+LN-030,CORD-1014,2025-10-01,EMC-401,EMC-M01,Maya,Chen,Loyalty,maya_chen@school.edu,Cash,SKU-C-1004,EchoWave Headphones,Audio,1,74.99,CAD,0,0.13,,CA,Toronto, ON,,272 grams,Y,manual discount ok
+LN-031,UORD-1003,2025-11-17,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1014,NoteNest Planner,School,2,16.49,USD,0.1,0.07,38.86,US,,,one size,,Y,manual discount ok
+LN-032,CORD-1008,2025-10-11,EMC-402,EMC-M01,Liam,Patel,Guest,,Cash,SKU-C-1002,Aurora Mechanical Keyboard,Tech,2,89.99,CAD,0.05,0.13,194.38,CA,,,one size,,Y,
+LN-033,CORD-1024,2025-09-30,EMC-401,EMC-M01,Emma,Wilson,Loyalty,emmawilson@gmail.com,Cash,SKU-C-1018,CLOUDSLEEVE LAPTOP CASE,Accessories,3,29.99,CAD,0.05,,97.17,CA,,,one size,,N,late ship
+LN-034,CORD-1034,2025-10-23,EMC-401,EMC-M01,Noah,Smith,Standard,noah_smith@school.edu,Debit,SKU-C-1012,Summit Laptop Stand,Accessories,3,38.49,CAD,0.1,0.13,129.57,CA,Toronto, ON,,340 grams,N,late ship
+LN-035,UORD-1025,2025-10-14,EMU-202,EMU-M03,Ethan,Lee,Guest,ethan_lee@school.edu,Debit,SKU-C-1018,CloudSleeve Laptop Case,Accessories,1,32.49,USD,0.05,0.07,32.39,US,,,11 inches,,N,gift receipt
+LN-036,CORD-1050,2025-09-21,EMC-403,EMC-M02,Ethan,Lee,Loyalty,ethan.lee@example.ca,Visa,SKU-C-1010,GLIDE MOUSE PAD,Accessories,1,16.99,CAD,0,0.13,18.35,CA,,,,0.30 kilograms,N,manual discount ok
+LN-037,CORD-1027,2025-10-25,EMC-403,EMC-M02,Lucas,Taylor,Guest,lucas.taylor@example.ca,Debit,SKU-C-1010,Glide Mouse Pad,Accessories,1,16.99,CAD,0,,18.35,CA,Vancouver, BC,one size,,N,late ship
+LN-038,UORD-1051,2025-09-25,EMU-201,EMU-M03,Chloe,Martin,Student,chloemartin@gmail.com,Visa,SKU-U-1009,City Beanie,Apparel,1,22.99,USD,0.1,0.0825,24.83,US,,,one size,,N,late ship
+LN-039,CORD-1012,2025-10-14,EMC-501,EMC-M03,Noah,Smith,Guest,noahsmith@gmail.com,Mastercard,SKU-C-1004,EchoWave Headphones,Audio,1,74.99,CAD,0.05,,80.99,CA,,,38 centimetres,,Y,late ship
+LN-040,UORD-1025,2025-10-14,EMU-202,EMU-M03,Ethan,Lee,Guest,ethan_lee@school.edu,Debit,SKU-C-1002,Aurora Mechanical Keyboard,Tech,3,88.49,USD,0.1,,,US,,,,12 ounces,N,
+LN-041,CORD-1039,2025-10-31,EMC-501,EMC-M03,Emma,Wilson,Guest,emma_wilson@school,Apple Pay,SKU-C-1012,SUMMIT LAPTOP STAND,Accessories,3,39.99,CAD,0,0.13,,CA,Vancouver, BC,28 centimetres,,N,gift receipt
+LN-042,CORD-1035,2025-09-11,EMC-501,EMC-M03,Ella,Wright,Guest,ella.wright@example.ca,Debit,SKU-C-1012,Summit Laptop Stand,Accessories,1,42.49,CAD,0.1,,43.19,CA,Toronto, ON,28 centimetres,,N,manual discount ok
+LN-043,UORD-1027,2025-10-04,EMU-302,EMU-M04,Ella,Wright,Loyalty,ellawright@gmail.com,Mastercard,SKU-C-1018,CloudSleeve Laptop Case,Accessories,2,29.99,USD,0.1,0.0825,,US,,,11 inches,,N,manual discount ok
+LN-044,UORD-1055,2025-10-12,EMU-103,EMU-M02,Liam,Patel,Loyalty,liam.patel@example.com,Cash,SKU-C-1004,EchoWave Headphones,Audio,1,73.49,USD,0.1,0.07,80.99,US,Austin, TX,,11 ounces,Y,late ship
+LN-045,UORD-1025,2025-10-14,EMU-202,EMU-M03,Ethan,Lee,Guest,ethan_lee@school.edu,Debit,SKU-C-1010,Glide Mouse Pad,Accessories,3,19.49,USD,0.1,0.0825,55.05,US,,,one size,,N,gift receipt
+LN-046,CORD-1044,2025-09-25,EMC-501,EMC-M03,Mason,Rivera,Loyalty,mason_rivera@school.edu,Debit,SKU-U-1009,City Beanie,Apparel,1,22.99,CAD,0.1,0.13,,CA,,,,272 grams,N,gift receipt
+LN-047,CORD-1026,2025-10-23,EMC-501,EMC-M03,Emma,Wilson,Standard,emma.wilson@example.ca,Mastercard,SKU-C-1006,TrailSip Bottle,Lifestyle,2,24.5,CAD,0.1,0.13,26.46,CA,Toronto, ON,28 centimeters,,N,late ship
+LN-048,UORD-1003,2025-11-17,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-U-1011,Pulse USB-C Hub,Tech,3,54.99,USD,0.05,0.0825,,US,,,,11 ounces,Y,gift receipt
+LN-049,UORD-1030,2025-10-25,EMU-102,EMU-M01,Zoe,Garcia,Standard,zoe_garcia@school.edu,Visa,SKU-C-1004,EchoWave Headphones,Audio,2,75.99,USD,0,0.07,161.98,US,,,15 inches,,N,manual discount ok
+LN-050,CORD-1050,2025-09-21,EMC-403,EMC-M02,Ethan,Lee,Loyalty,ethan.lee@example.ca,Visa,SKU-C-1008,CAMPUS HOODIE,Apparel,1,44.99,CAD,0.05,0.13,48.59,CA,,,,340 g,N,gift receipt
+LN-051,UORD-1025,2025-10-14,EMU-202,EMU-M03,Ethan,Lee,Guest,ethan_lee@school.edu,Debit,SKU-U-1011,Pulse USB-C Hub,Tech,1,54.99,USD,0,0.07,59.39,US,,,,12 ounces,N,late ship
+LN-052,UORD-1046,2025-10-22,EMU-301,EMU-M04,Emma,Wilson,Loyalty,emmawilson@gmail.com,Debit,SKU-U-1013,InkTrail Journal,School,2,14.99,USD,0.05,0.0825,,US,,,10 inches,,N,
+LN-053,CORD-1053,2025-11-18,EMC-402,EMC-M01,Ella,Wright,Standard,ella.wright@example.ca,Cash,SKU-U-1003,ClickStorm Gaming Mouse,Tech,2,49.99,CAD,0.05,0.13,,CA,Toronto, ON,28 centimetres,,N,
+LN-054,CORD-1032,2025-08-11,EMC-501,EMC-M03,Zoe,Garcia,Standard,zoe.garcia@example.ca,Apple Pay,SKU-C-1002,Aurora Mechanical Keyboard,Tech,1,92.49,CAD,0.1,0.13,97.19,CA,Toronto, ON,,0.30 kilograms,Y,
+LN-055,UORD-1040,2025-11-10,EMU-301,EMU-M04,Grace,Hall,Guest,grace.hall@example.com,Apple Pay,SKU-U-1013,InkTrail Journal,School,1,14.99,USD,0.05,0.07,16.19,US,Seattle, WA,one size,,N,manual discount ok
+LN-056,UORD-1052,2025-11-05,EMU-201,EMU-M03,Zoe,Garcia,Student,zoegarcia@gmail.com,Apple Pay,SKU-C-1006,TrailSip Bottle,Lifestyle,3,27,USD,0,0.0825,79.38,US,,,11 inches,,N,late ship
+LN-057,CORD-1041,2025-09-30,EMC-501,EMC-M03,Chloe,Martin,Loyalty,,Debit,SKU-C-1016,Metro Tote Bag,Lifestyle,2,35.99,CAD,0,0.13,37.79,CA,Vancouver, BC,one size,,N,late ship
+LN-058,UORD-1016,2025-11-11,EMU-301,EMU-M04,Zoe,Garcia,Guest,,Mastercard,SKU-U-1009,City Beanie,Apparel,2,21.49,USD,0.1,,,US,,,15 inches,,N,gift receipt
+LN-059,CORD-1010,2025-10-09,EMC-403,EMC-M02,Chloe,Martin,Student,chloemartin@gmail.com,Mastercard,SKU-U-1017,SnapCharge Cable,Tech,3,15.49,CAD,0.1,0.13,42.09,CA,Toronto, ON,,,N,manual discount ok
+LN-060,UORD-1020,2025-11-04,EMU-102,EMU-M01,Sofia,Nguyen,Standard,sofia_nguyen@school.edu,Cash,SKU-C-1008,Campus Hoodie,Apparel,1,44.99,USD,0.05,0.07,,US,,,,11 ounces,N,late ship
+LN-061,CORD-1006,2025-10-23,EMC-502,EMC-M03,Liam,Patel,Standard,liam.patel@example.ca,Debit,SKU-C-1020,Northline Crewneck,Apparel,1,49.99,CAD,0.05,0.13,,CA,,,,272 grams,N,manual discount ok
+LN-062,UORD-1041,2025-10-11,EMU-202,EMU-M03,Mason,Rivera,Loyalty,masonrivera@gmail.com,Visa,SKU-C-1020,Northline Crewneck,Apparel,2,49.99,USD,0.05,0.0825,53.99,US,,,,,N,late ship
+LN-063,UORD-1037,2025-09-15,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-U-1001,FrostFlex Phone Case,Accessories,2,18.49,USD,0.1,0.0825,,US,Seattle, WA,one size,,N,late ship
+LN-064,UORD-1012,2025-10-27,EMU-301,EMU-M04,Owen,Clark,Standard,owen.clark@example.com,Debit,SKU-C-1010,GLIDE MOUSE PAD,Accessories,2,16.99,USD,0,0.07,36.7,US,,,11 inches,,Y,gift receipt
+LN-065,UORD-1023,2025-10-24,EMU-102,EMU-M01,Zoe,Garcia,Guest,zoe_garcia@school.edu,Apple Pay,SKU-C-1018,CloudSleeve Laptop Case,Accessories,2,29.99,USD,0.05,0.07,64.78,US,,,,11 ounces,N,gift receipt
+LN-066,UORD-1052,2025-11-05,EMU-201,EMU-M03,Zoe,Garcia,Student,zoegarcia@gmail.com,Apple Pay,SKU-U-1005,HALO DESK LAMP,Accessories,2,60.99,USD,0.1,0.07,,CA,,,,12 ounces,N,gift receipt
+LN-067,CORD-1003,2025-10-17,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emmawilson@gmail.com,Visa,SKU-U-1005,Halo Desk Lamp,Accessories,1,59.99,CAD,0.1,0.13,64.79,CA,Toronto, ON,28 centimetres,,Y,manual discount ok
+LN-068,UORD-1028,2025-11-21,EMU-202,EMU-M03,Maya,Chen,Standard,maya.chen@example.com,Interac,SKU-U-1005,HALO DESK LAMP,Accessories,3,59.99,USD,0.05,0.0825,194.37,US,,,15 inches,,Y,manual discount ok
+LN-069,CORD-1055,2025-10-13,EMC-401,EMC-M01,Liam,Patel,Student,liam_patel@school.edu,Visa,SKU-U-1019,Studio Webcam Cover,Accessories,1,7.99,CAD,0.1,0.13,8.63,CA,,,one size,,N,
+LN-070,UORD-1052,2025-11-05,EMU-201,EMU-M03,Zoe,Garcia,Student,zoegarcia@gmail.com,Apple Pay,SKU-C-1020,Northline Crewneck,Apparel,3,48.49,USD,0.05,0.0825,,US,,,11 inches,,N,late ship
+LN-071,UORD-1053,2025-10-26,EMU-202,EMU-M03,Ethan,Lee,Standard,ethan_lee@school.edu,Visa,SKU-U-1005,HALO DESK LAMP,Accessories,1,59.99,USD,0.1,,64.79,US,,,,12 ounces,Y,
+LN-072,UORD-1030,2025-10-25,EMU-102,EMU-M01,Zoe,Garcia,Standard,zoe_garcia@school.edu,Visa,SKU-C-1012,SUMMIT LAPTOP STAND,Accessories,2,38.49,USD,0.05,0.0825,43.19,US,,,,11 ounces,N,late ship
+LN-073,UORD-1022,2025-09-23,EMU-202,EMU-M03,Owen,Clark,Standard,owenclark@gmail.com,Mastercard,SKU-C-1010,GLIDE MOUSE PAD,Accessories,1,19.49,USD,0.05,,,US,,,,,Y,manual discount ok
+LN-074,UORD-1019,2025-09-19,EMU-103,EMU-M02,Chloe,Martin,Standard,chloe_martin@school.edu,Visa,SKU-U-1017,SNAPCHARGE CABLE,Tech,1,11.49,USD,0.05,0.07,14.03,US,,,15 inches,,Y,manual discount ok
+LN-075,CORD-1053,2025-11-18,EMC-402,EMC-M01,Ella,Wright,Standard,ella.wright@example.ca,Cash,SKU-U-1013,InkTrail Journal,School,2,14.99,CAD,0.05,0.13,,CA,Toronto, ON,,272 grams,N,gift receipt
+LN-076,UORD-1002,2025-10-06,EMU-202,EMU-M03,Lucas,Taylor,Student,lucas.taylor@example.com,Cash,SKU-U-1013,InkTrail Journal,School,3,15.99,USD,0.1,,48.57,US,,,,12 ounces,Y,gift receipt
+LN-077,UORD-1032,2025-11-07,EMU-201,EMU-M03,Maya,Chen,Student,maya_chen@school.edu,Mastercard,SKU-C-1020,Northline Crewneck,Apparel,1,49.99,USD,0.1,,,US,,,11 inches,,N,
+LN-078,UORD-1019,2025-09-19,EMU-103,EMU-M02,Chloe,Martin,Standard,chloe_martin@school.edu,Visa,SKU-C-1014,NoteNest Planner,School,2,18.99,USD,0.1,,,US,,,,0.6 pounds,Y,late ship
+LN-079,CORD-1006,2025-10-23,EMC-502,EMC-M03,Liam,Patel,Standard,liam.patel@example.ca,Debit,SKU-C-1018,CloudSleeve Laptop Case,Accessories,2,29.99,CAD,0.05,0.13,,CA,,,,272 grams,N,
+LN-080,UORD-1048,2025-10-24,EMU-202,EMU-M03,Liam,Patel,Standard,liam_patel@school.edu,Apple Pay,SKU-U-1001,FROSTFLEX PHONE CASE,Accessories,3,20.99,USD,0,0.0825,64.77,US,,,,,N,manual discount ok
+LN-081,UORD-1054,2025-10-17,EMU-201,EMU-M03,Grace,Hall,Student,grace_hall@school.edu,Cash,SKU-C-1008,Campus Hoodie,Apparel,1,44.99,USD,0,0.07,48.59,US,Seattle, WA,15 inches,,Y,
+LN-082,UORD-1024,2025-09-12,EMU-302,EMU-M04,Sofia,Nguyen,Student,sofia_nguyen@school.edu,Interac,SKU-C-1006,TrailSip Bottle,Lifestyle,2,27,USD,0.05,0.0825,52.92,US,Austin, TX,11 inches,,N,gift receipt
+LN-083,UORD-1040,2025-11-10,EMU-301,EMU-M04,Grace,Hall,Guest,grace.hall@example.com,Apple Pay,SKU-U-1013,InkTrail Journal,School,2,15.99,USD,0,0.07,32.38,US,Seattle, WA,,11 ounces,N,gift receipt
+LN-084,UORD-1049,2025-09-08,EMU-102,EMU-M01,Owen,Clark,Guest,,Visa,SKU-C-1006,TrailSip Bottle,Lifestyle,2,24.5,USD,0,0.0825,52.92,US,Austin, TX,one size,,N,
+LN-085,CORD-1006,2025-10-23,EMC-502,EMC-M03,Liam,Patel,Standard,liam.patel@example.ca,Debit,SKU-U-1013,InkTrail Journal,School,2,14.99,CAD,0.1,0.13,,CA,,,,272 grams,N,manual discount ok
+LN-086,CORD-1028,2025-10-31,EMC-502,EMC-M03,Owen,Clark,Student,owen_clark@school.edu,Visa,SKU-C-1004,EchoWave Headphones,Audio,2,74.99,CAD,0.1,0.13,80.99,CA,Toronto, ON,,0.30 kilograms,N,late ship
+LN-087,CORD-1025,2025-10-22,EMC-402,EMC-M01,Ava,Johnson,Guest,,Apple Pay,SKU-U-1009,City Beanie,Apparel,2,21.49,CAD,0.05,0.13,49.66,CA,Vancouver, BC,37 centimeters,,N,late ship
+LN-088,UORD-1021,2025-10-05,EMU-201,EMU-M03,Grace,Hall,Loyalty,grace.hall@example.com,Visa,SKU-U-1003,ClickStorm Gaming Mouse,Tech,2,50.99,USD,0.1,0.0825,107.98,US,,,15 inches,,N,late ship
+LN-089,UORD-1016,2025-11-11,EMU-301,EMU-M04,Zoe,Garcia,Guest,,Mastercard,SKU-U-1013,InkTrail Journal,School,2,14.99,USD,0.1,0.07,,US,,,,11 ounces,N,gift receipt
+LN-090,UORD-1053,2025-10-26,EMU-202,EMU-M03,Ethan,Lee,Standard,ethan_lee@school.edu,Visa,SKU-U-1019,Studio Webcam Cover,Accessories,2,6.49,USD,0.1,0.07,17.26,US,,,11 inches,,Y,manual discount ok
+LN-091,UORD-1048,2025-10-24,EMU-202,EMU-M03,Liam,Patel,Standard,liam_patel@school.edu,Apple Pay,SKU-U-1017,SNAPCHARGE CABLE,Tech,3,12.99,USD,0.1,,42.09,US,,,15 inches,,N,
+LN-092,CORD-1026,2025-10-23,EMC-501,EMC-M03,Emma,Wilson,Standard,emma.wilson@example.ca,Mastercard,SKU-U-1011,Pulse USB-C Hub,Tech,1,57.49,CAD,0,0.13,59.39,CA,Toronto, ON,,,N,manual discount ok
+LN-093,UORD-1001,2025-11-18,EMU-202,EMU-M03,Ava,Johnson,Standard,avajohnson@gmail.com,Visa,SKU-C-1006,TrailSip Bottle,Lifestyle,1,23,USD,0.05,0.07,,US,Austin, TX,,12 ounces,Y,gift receipt
+LN-094,CORD-1054,2025-10-15,EMC-501,EMC-M03,Mason,Rivera,Guest,,Visa,SKU-U-1005,Halo Desk Lamp,Accessories,1,59.99,CAD,0,,64.79,CA,,,,,N,late ship
+LN-095,UORD-1008,2025-09-28,EMU-302,EMU-M04,Lucas,Taylor,Student,lucas.taylor@example.com,Debit,SKU-C-1016,Metro Tote Bag,Lifestyle,1,34.99,USD,0.1,0.07,37.79,US,Austin, TX,11 inches,,N,manual discount ok
+LN-096,UORD-1005,2025-11-08,EMU-201,EMU-M03,Sofia,Nguyen,Loyalty,sofia_nguyen@school.edu,Mastercard,SKU-C-1004,ECHOWAVE HEADPHONES,Audio,3,74.99,USD,0.05,0.0825,,US,,,,,N,gift receipt
+LN-097,UORD-1008,2025-09-28,EMU-302,EMU-M04,Lucas,Taylor,Student,lucas.taylor@example.com,Debit,SKU-U-1017,SnapCharge Cable,Tech,2,12.99,USD,0.1,0.0825,,US,Austin, TX,one size,,N,late ship
+LN-098,CORD-1015,2025-09-21,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emma_wilson@school.edu,Apple Pay,SKU-C-1014,NoteNest Planner,School,1,17.99,CAD,0.05,0.13,19.43,CA,Toronto, ON,,340 grams,Y,late ship
+LN-099,CORD-1048,2025-05-09,EMC-502,EMC-M03,Ava,Johnson,Student,,Debit,SKU-C-1004,EchoWave Headphones,Audio,2,73.49,CAD,0.1,0.13,,CA,,,,272 grams,N,manual discount ok
+LN-100,UORD-1031,2025-10-05,EMU-201,EMU-M03,Grace,Hall,Student,gracehall@gmail.com,Interac,SKU-U-1003,ClickStorm Gaming Mouse,Tech,2,48.49,USD,0.05,,107.98,US,,,11 inches,,N,manual discount ok
+LN-101,UORD-1056,2025-10-22,EMU-202,EMU-M03,Owen,Clark,Standard,owenclark@gmail.com,Mastercard,SKU-U-1003,ClickStorm Gaming Mouse,Tech,1,50.99,USD,0.05,0.0825,161.97,US,Austin, TX,,,Y,gift receipt
+LN-102,UORD-1058,2025-10-10,EMU-301,EMU-M04,Ava,Johnson,Loyalty,avajohnson@gmail.com,Debit,SKU-C-1012,SUMMIT LAPTOP STAND,Accessories,1,38.49,USD,0.05,0.0825,43.19,US,Seattle, WA,,11 ounces,N,late ship
+LN-103,UORD-1060,2025-11-07,EMU-202,EMU-M03,Mason,Rivera,Loyalty,masonrivera@gmail.com,Visa,SKU-C-1014,NoteNest Planner,School,1,18.99,USD,0.1,,19.43,US,,,11 inches,,N,gift receipt
+LN-104,UORD-1061,2025-09-18,EMU-102,EMU-M01,Liam,Patel,Standard,liam.patel@example.com,Interac,SKU-C-1014,NoteNest Planner,School,2,18.99,USD,0,0.07,58.29,US,,,,0.6 pounds,Y,
+LN-105,CORD-1056,2025-08-10,EMC-502,EMC-M03,Ava,Johnson,Student,,Debit,SKU-C-1004,EchoWave Headphones,Audio,3,73.49,CAD,0.1,0.13,,CA,,,,272 grams,N,manual discount ok
+LN-106,CORD-1058,2025-11-21,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emmawilson@gmail.com,Visa,SKU-U-1015,BREEZE RING LIGHT,Accessories,2,46.99,CAD,0.05,0.13,,CA,Vancouver, BC,one size,,Y,gift receipt
+LN-107,UORD-1062,2025-09-20,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-U-1001,FrostFlex Phone Case,Accessories,1,18.49,USD,0.1,0.0825,,US,Seattle, WA,one size,,N,late ship
+LN-108,CORD-1059,2025-10-23,EMC-501,EMC-M03,Ella,Wright,Guest,ella.wright@example.ca,Debit,SKU-U-1013,InkTrail Journal,School,2,13.49,CAD,0.1,0.13,32.38,CA,Toronto, ON,one size,,N,late ship
+LN-109,UORD-1063,2025-12-14,EMU-202,EMU-M03,Ava,Johnson,Standard,avajohnson@gmail.com,Visa,SKU-C-1002,Aurora Mechanical Keyboard,Tech,2,90.99,USD,0.05,0.0825,97.19,US,Austin, TX,one size,,Y,gift receipt
+LN-110,UORD-1063,2025-12-14,EMU-202,EMU-M03,Ava,Johnson,Standard,avajohnson@gmail.com,Visa,SKU-C-1018,CloudSleeve Laptop Case,Accessories,2,29.99,USD,0.1,0.0825,97.17,US,Austin, TX,,,Y,student promo
+LN-111,UORD-1064,2025-11-01,EMU-202,EMU-M03,Lucas,Taylor,Guest,lucastaylor@gmail.com,Debit,SKU-U-1017,SnapCharge Cable,Tech,1,12.99,USD,0.1,0.0825,,US,,,one size,,N,late ship
+LN-112,UORD-1066,2025-09-19,EMU-302,EMU-M04,Sofia,Nguyen,Student,sofia_nguyen@school.edu,Interac,SKU-C-1006,TrailSip Bottle,Lifestyle,2,27,USD,0.05,0.0825,52.92,US,Austin, TX,11 inches,,N,
+LN-113,UORD-1068,2025-11-22,EMU-102,EMU-M01,Zoe,Garcia,Standard,zoe_garcia@school.edu,Visa,SKU-C-1004,EchoWave Headphones,Audio,2,75.99,USD,0,0.07,161.98,US,,,15 inches,,N,manual discount ok
+LN-114,UORD-1068,2025-11-22,EMU-102,EMU-M01,Zoe,Garcia,Standard,zoe_garcia@school.edu,Visa,SKU-C-1018,CloudSleeve Laptop Case,Accessories,1,29.99,USD,0.1,0.0825,,US,,,11 inches,,N,manual discount ok
+LN-115,UORD-1070,2025-11-23,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1014,NoteNest Planner,School,2,16.49,USD,0.1,0.07,38.86,US,Austin, TX,one size,,Y,gift receipt
+LN-116,CORD-1061,2025-11-23,EMC-502,EMC-M03,Ella,Wright,Guest,ella.wright@example.ca,Visa,SKU-C-1008,CAMPUS HOODIE,Apparel,1,44.99,CAD,0.05,0.13,48.59,CA,Vancouver, BC,,340 grams,Y,gift receipt
+LN-117,UORD-1070,2025-11-23,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1018,CloudSleeve Laptop Case,Accessories,2,29.99,USD,0.1,0.0825,97.17,US,Austin, TX,,,Y,late ship
+LN-118,CORD-1063,2025-04-11,EMC-502,EMC-M03,Owen,Clark,Student,owen_clark@school.edu,Visa,SKU-C-1004,EchoWave Headphones,Audio,3,74.99,CAD,0.1,0.13,80.99,CA,,,,0.30 kilograms,N,late ship
+LN-119,UORD-1070,2025-11-23,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1004,EchoWave Headphones,Audio,3,73.49,USD,0.1,0.07,80.99,US,Austin, TX,,11 ounces,Y,late ship
+LN-120,UORD-1070,2025-11-23,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-U-1005,Halo Desk Lamp,Accessories,1,59.99,USD,0,0.07,194.37,US,Austin, TX,,0.6 pounds,Y,gift receipt
+LN-121,UORD-1072,2025-10-22,EMU-201,EMU-M03,Grace,Hall,Student,gracehall@gmail.com,Interac,SKU-C-1002,Aurora Mechanical Keyboard,Tech,3,89.99,USD,0.05,,97.19,US,,,,,N,manual discount ok
+LN-122,CORD-1065,2025-11-15,EMC-401,EMC-M01,Liam,Patel,Student,liam_patel@school.edu,Visa,SKU-U-1019,Studio Webcam Cover,Accessories,2,7.99,CAD,0.1,0.13,8.63,CA,,,one size,,N,student promo
+LN-123,UORD-1073,2025-11-16,EMU-103,EMU-M02,Liam,Patel,Loyalty,liam.patel@example.com,Cash,SKU-C-1004,EchoWave Headphones,Audio,3,73.49,USD,0.1,0.07,80.99,US,,,,11 ounces,Y,late ship
+LN-124,UORD-1074,2025-12-16,EMU-103,EMU-M02,Ava,Johnson,Guest,,Debit,SKU-C-1014,NoteNest Planner,School,2,18.99,USD,0.1,,,US,Austin, TX,,0.6 pounds,Y,late ship
+LN-125,CORD-1065,2025-11-15,EMC-401,EMC-M01,Liam,Patel,Student,liam_patel@school.edu,Visa,SKU-C-1002,Aurora Mechanical Keyboard,Tech,1,92.49,CAD,0.1,0.13,97.19,CA,,,,300 grams,N,
+LN-126,UORD-1076,2025-11-08,EMU-102,EMU-M01,Zoe,Garcia,Standard,,Visa,SKU-C-1004,EchoWave Headphones,Audio,2,75.99,USD,0,0.07,161.98,US,,,15 inches,,N,manual discount ok
+LN-127,CORD-1066,2025-11-19,EMC-401,EMC-M01,Noah,Smith,Standard,noah_smith@school.edu,Debit,SKU-C-1012,Summit Laptop Stand,Accessories,3,38.49,CAD,0.1,0.13,129.57,CA,Toronto, ON,,340 grams,N,student promo
+LN-128,UORD-1077,2025-12-18,EMU-202,EMU-M03,Lucas,Taylor,Guest,,Visa,SKU-U-1017,SNAPCHARGE CABLE,Tech,2,12.99,USD,0.1,,42.09,US,,,15 inches,,N,
+LN-129,CORD-1068,2025-11-16,EMC-402,EMC-M01,Ethan,Lee,Guest,ethan.lee@example.ca,Visa,SKU-U-1017,SnapCharge Cable,Tech,1,15.49,CAD,0.1,0.13,42.09,CA,Toronto, ON,,,Y,manual discount ok
+LN-130,CORD-1070,2025-11-20,EMC-501,EMC-M03,Zoe,Garcia,Standard,zoe.garcia@example.ca,Apple Pay,SKU-C-1012,Summit Laptop Stand,Accessories,2,39.99,CAD,0,0.13,,CA,Toronto, ON,,272 grams,Y,
+LN-131,UORD-1079,2025-09-14,EMU-101,EMU-M01,Maya,Chen,Loyalty,,Interac,SKU-C-1020,Northline Crewneck,Apparel,2,49.99,USD,0.1,,,US,Austin, TX,11 inches,,N,
+LN-132,CORD-1071,2025-10-29,EMC-401,EMC-M01,Emma,Wilson,Loyalty,,Cash,SKU-C-1018,CLOUDSLEEVE LAPTOP CASE,Accessories,2,29.99,CAD,0.05,,97.17,CA,,,one size,,N,late ship
+LN-133,CORD-1073,2025-12-14,EMC-501,EMC-M03,Zoe,Garcia,Standard,zoe.garcia@example.ca,Apple Pay,SKU-C-1012,Summit Laptop Stand,Accessories,2,39.99,CAD,0,0.13,,CA,Toronto, ON,,272 grams,Y,late ship
+LN-134,UORD-1080,2025-12-28,EMU-202,EMU-M03,Maya,Chen,Standard,maya.chen@example.com,Interac,SKU-U-1005,HALO DESK LAMP,Accessories,2,59.99,USD,0.05,0.0825,194.37,US,,,15 inches,,Y,manual discount ok
+LN-135,UORD-1081,2025-10-13,EMU-302,EMU-M04,Sofia,Nguyen,Student,sofia_nguyen@school.edu,Interac,SKU-C-1006,TrailSip Bottle,Lifestyle,1,27,USD,0.05,0.0825,52.92,US,Austin, TX,11 inches,,N,gift receipt
+LN-136,CORD-1074,2025-10-10,EMC-501,EMC-M03,Mason,Rivera,Loyalty,,Debit,SKU-U-1009,City Beanie,Apparel,1,22.99,CAD,0.1,0.13,,CA,,,,272 grams,N,manual discount ok
+LN-137,CORD-1074,2025-10-10,EMC-501,EMC-M03,Mason,Rivera,Loyalty,,Debit,SKU-U-1013,InkTrail Journal,School,1,14.99,CAD,0.1,,,CA,,,one size,,N,
+LN-138,UORD-1082,2025-11-27,EMU-201,EMU-M03,Zoe,Garcia,Student,zoegarcia@gmail.com,Apple Pay,SKU-C-1006,TrailSip Bottle,Lifestyle,2,27,USD,0,0.0825,79.38,US,,,11 inches,,N,late ship
+LN-139,CORD-1074,2025-10-10,EMC-501,EMC-M03,Mason,Rivera,Loyalty,,Debit,SKU-U-1013,InkTrail Journal,School,2,14.99,CAD,0.1,,,CA,,,one size,,N,
+LN-140,UORD-1083,2025-11-07,EMU-301,EMU-M04,Ava,Johnson,Loyalty,avajohnson@gmail.com,Debit,SKU-C-1012,SUMMIT LAPTOP STAND,Accessories,2,38.49,USD,0.05,0.0825,43.19,US,,,,11 ounces,N,late ship
+LN-141,CORD-1075,2025-10-20,EMC-501,EMC-M03,Mason,Rivera,Loyalty,,Debit,SKU-U-1009,City Beanie,Apparel,2,22.99,CAD,0.1,0.13,,CA,,,,272 grams,N,gift receipt
+LN-142,UORD-1083,2025-11-07,EMU-301,EMU-M04,Ava,Johnson,Loyalty,avajohnson@gmail.com,Debit,SKU-U-1017,SnapCharge Cable,Tech,1,12.99,USD,0.1,0.0825,,US,,,one size,,N,late ship
+LN-143,CORD-1075,2025-10-20,EMC-501,EMC-M03,Mason,Rivera,Loyalty,,Debit,SKU-U-1013,INKTRAIL JOURNAL,School,1,14.99,CAD,0.1,0.13,16.19,CA,,,,,N,manual discount ok
+LN-144,CORD-1077,2025-09-30,EMC-501,EMC-M03,Zoe,Garcia,Loyalty,,Visa,SKU-U-1009,City Beanie,Apparel,2,25.49,CAD,0.05,0.13,24.83,CA,Toronto, ON,,340 grams,N,
+LN-145,UORD-1083,2025-11-07,EMU-301,EMU-M04,Ava,Johnson,Loyalty,avajohnson@gmail.com,Debit,SKU-U-1005,Halo Desk Lamp,Accessories,2,59.99,USD,0,0.07,194.37,US,,,,0.6 pounds,N,gift receipt
+LN-146,UORD-1084,2025-11-03,EMU-103,EMU-M02,Ella,Wright,Standard,,Amex,SKU-C-1010,Glide Mouse Pad,Accessories,1,19.49,USD,0.1,0.0825,55.05,US,Austin, TX,one size,,N,gift receipt
+LN-147,UORD-1084,2025-11-03,EMU-103,EMU-M02,Ella,Wright,Standard,,Amex,SKU-C-1014,NoteNest Planner,School,2,18.99,USD,0.1,,19.43,US,Austin, TX,11 inches,,N,gift receipt
+LN-148,UORD-1085,2025-11-09,EMU-103,EMU-M02,Ava,Johnson,Guest,,Debit,SKU-C-1014,NoteNest Planner,School,3,18.99,USD,0.1,,,US,Austin, TX,,0.6 pounds,N,late ship
+LN-149,UORD-1087,2025-11-10,EMU-101,EMU-M01,Chloe,Martin,Guest,,Cash,SKU-C-1006,TrailSip Bottle,Lifestyle,2,23,USD,0.05,0.07,,US,Austin, TX,,12 ounces,N,gift receipt
+LN-150,UORD-1087,2025-11-10,EMU-101,EMU-M01,Chloe,Martin,Guest,,Cash,SKU-C-1006,TrailSip Bottle,Lifestyle,2,27,USD,0.05,0.0825,52.92,US,Austin, TX,11 inches,,N,gift receipt
+LN-151,UORD-1088,2025-10-26,EMU-301,EMU-M04,Emma,Wilson,Loyalty,,Debit,SKU-U-1001,FrostFlex Phone Case,Accessories,2,20.99,USD,0.05,0.07,21.59,US,,,one size,,N,manual discount ok
+LN-152,CORD-1079,2025-08-17,EMC-401,EMC-M01,Owen,Clark,Loyalty,owen_clark@school.edu,Visa,SKU-U-1011,Pulse USB-C Hub,Tech,1,57.49,CAD,0,0.13,59.39,CA,Vancouver, BC,,,N,manual discount ok
+LN-153,UORD-1090,2025-10-22,EMU-102,EMU-M01,Liam,Patel,Standard,liam.patel@example.com,Interac,SKU-C-1014,NoteNest Planner,School,2,18.99,USD,0,0.07,58.29,US,,,,0.6 pounds,Y,
+LN-154,UORD-1091,2025-09-30,EMU-302,EMU-M04,Sofia,Nguyen,Student,sofia_nguyen@school.edu,Interac,SKU-C-1006,TrailSip Bottle,Lifestyle,1,27,USD,0.05,0.0825,52.92,US,Austin, TX,11 inches,,N,gift receipt
+LN-155,CORD-1080,2025-10-25,EMC-501,EMC-M03,Chloe,Martin,Loyalty,,Debit,SKU-C-1016,Metro Tote Bag,Lifestyle,1,35.99,CAD,0,0.13,37.79,CA,Vancouver, BC,one size,,N,
+LN-156,UORD-1092,2025-11-28,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1014,NoteNest Planner,School,1,16.49,USD,0.1,0.07,38.86,US,Austin, TX,one size,,Y,manual discount ok
+LN-157,CORD-1081,2025-11-03,EMC-502,EMC-M03,Ella,Wright,Guest,ella.wright@example.ca,Visa,SKU-C-1008,CAMPUS HOODIE,Apparel,3,44.99,CAD,0.05,0.13,48.59,CA,Vancouver, BC,,340 grams,Y,gift receipt
+LN-158,UORD-1092,2025-11-28,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1020,Northline Crewneck,Apparel,3,48.49,USD,0.05,0.0825,,US,Austin, TX,11 inches,,Y,late ship
+LN-159,CORD-1083,2025-09-25,EMC-403,EMC-M02,Chloe,Martin,Student,chloemartin@gmail.com,Mastercard,SKU-U-1011,Pulse USB-C Hub,Tech,1,54.99,CAD,0.1,0.13,59.39,CA,Toronto, ON,one size,,N,late ship
+LN-160,UORD-1092,2025-11-28,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-C-1016,Metro Tote Bag,Lifestyle,1,34.99,USD,0,0.07,37.79,US,Austin, TX,11 inches,,Y,
+LN-161,CORD-1085,2025-09-05,EMC-401,EMC-M01,Owen,Clark,Loyalty,owen_clark@school.edu,Visa,SKU-U-1011,Pulse USB-C Hub,Tech,1,57.49,CAD,0,0.13,59.39,CA,Toronto, ON,,,N,manual discount ok
+LN-162,UORD-1092,2025-11-28,EMU-302,EMU-M04,Maya,Chen,Student,,Apple Pay,SKU-U-1019,Studio Webcam Cover,Accessories,2,6.49,USD,0.1,0.07,17.26,US,Austin, TX,11 inches,,Y,manual discount ok
+LN-163,CORD-1086,2025-12-12,EMC-402,EMC-M01,Ella,Wright,Standard,ella.wright@example.ca,Cash,SKU-U-1003,ClickStorm Gaming Mouse,Tech,1,49.99,CAD,0.05,0.13,,CA,Toronto, ON,28 centimeters,,N,
+LN-164,UORD-1093,2025-10-21,EMU-201,EMU-M03,Grace,Hall,Loyalty,grace.hall@example.com,Visa,SKU-U-1003,ClickStorm Gaming Mouse,Tech,2,50.99,USD,0.1,0.0825,107.98,US,,,15 inches,,N,student promo
+LN-165,UORD-1094,2025-11-04,EMU-103,EMU-M02,Liam,Patel,Student,liam_patel@school.edu,Mastercard,SKU-U-1005,HALO DESK LAMP,Accessories,1,60.99,USD,0.1,0.07,,US,Austin, TX,,12 ounces,N,gift receipt
+LN-166,UORD-1095,2025-09-26,EMU-102,EMU-M01,Liam,Patel,Standard,liam.patel@example.com,Interac,SKU-C-1014,NoteNest Planner,School,3,18.99,USD,0,0.07,58.29,US,,,,0.6 pound,Y,
+LN-167,UORD-1095,2025-09-26,EMU-102,EMU-M01,Liam,Patel,Standard,liam.patel@example.com,Interac,SKU-C-1006,TrailSip Bottle,Lifestyle,1,24.5,USD,0,0.0825,52.92,US,,,one size,,Y,
+LN-168,UORD-1095,2025-09-26,EMU-102,EMU-M01,Liam,Patel,Standard,liam.patel@example.com,Interac,SKU-U-1013,InkTrail Journal,School,2,15.99,USD,0,0.07,32.38,US,,,,11 ounces,Y,gift receipt
+LN-169,UORD-1096,2025-10-23,EMU-101,EMU-M01,Grace,Hall,Guest,gracehall@gmail.com,Cash,SKU-U-1011,Pulse USB-C Hub,Tech,2,54.99,USD,0.05,0.0825,,US,Seattle, WA,,11 ounces,N,gift receipt
+LN-170,UORD-1096,2025-10-23,EMU-101,EMU-M01,Grace,Hall,Guest,gracehall@gmail.com,Cash,SKU-U-1001,FROSTFLEX PHONE CASE,Accessories,3,20.99,USD,0,0.0825,64.77,US,Seattle, WA,,,N,late ship
+LN-171,UORD-1097,2025-11-26,EMU-202,EMU-M03,Lucas,Taylor,Guest,lucastaylor@gmail.com,Debit,SKU-U-1017,SnapCharge Cable,Tech,2,12.99,USD,0.1,0.0825,,US,,,one size,,N,late ship
+LN-172,CORD-1087,2025-10-24,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emma_wilson@school.edu,Apple Pay,SKU-C-1014,NoteNest Planner,School,1,17.99,CAD,0.05,0.13,19.43,CA,,,,340 grams,N,late ship
+LN-173,CORD-1089,2025-09-21,EMC-403,EMC-M02,Chloe,Martin,Student,,Mastercard,SKU-U-1011,Pulse USB-C Hub,Tech,2,54.99,CAD,0.1,0.13,59.39,CA,Toronto, ON,one size,,Y,late ship
+LN-174,UORD-1097,2025-11-26,EMU-202,EMU-M03,Lucas,Taylor,Guest,lucastaylor@gmail.com,Debit,SKU-C-1012,SUMMIT LAPTOP STAND,Accessories,3,38.49,USD,0.05,0.0825,43.19,US,,,,11 ounces,N,late ship
+LN-175,CORD-1090,2025-11-21,EMC-402,EMC-M01,Ava,Johnson,Guest,,Apple Pay,SKU-U-1009,City Beanie,Apparel,2,21.49,CAD,0.05,0.13,49.66,CA,Vancouver, BC,38 centimetres,,N,late ship
+LN-176,UORD-1097,2025-11-26,EMU-202,EMU-M03,Lucas,Taylor,Guest,lucastaylor@gmail.com,Debit,SKU-U-1019,Studio Webcam Cover,Accessories,1,6.49,USD,0.1,0.07,17.26,US,,,11 inches,,N,manual discount ok
+LN-177,UORD-1097,2025-11-26,EMU-202,EMU-M03,Lucas,Taylor,Guest,lucastaylor@gmail.com,Debit,SKU-U-1019,Studio Webcam Cover,Accessories,2,6.49,USD,0.1,0.07,17.26,US,,,11 inches,,N,manual discount ok
+LN-178,CORD-1092,2025-09-21,EMC-501,EMC-M03,Zoe,Garcia,Loyalty,,Visa,SKU-U-1009,City Beanie,Apparel,2,25.49,CAD,0.05,0.13,24.83,CA,Toronto, ON,,340 grams,N,manual discount ok
+LN-179,UORD-1098,2025-11-25,EMU-202,EMU-M03,Chloe,Martin,Loyalty,,Visa,SKU-C-1020,Northline Crewneck,Apparel,1,48.49,USD,0.05,0.0825,,US,Austin, TX,10 inches,,N,late ship
+LN-180,UORD-1099,2025-10-19,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-U-1001,FrostFlex Phone Case,Accessories,1,18.49,USD,0.1,0.0825,,US,Seattle, WA,one size,,N,late ship
+LN-181,UORD-1100,2025-10-10,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-U-1001,FrostFlex Phone Case,Accessories,2,18.49,USD,0.1,0.0825,,US,Seattle, WA,one size,,N,
+LN-182,UORD-1100,2025-10-10,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-C-1002,Aurora Mechanical Keyboard,Tech,2,90.99,USD,0.05,0.0825,97.19,US,Seattle, WA,one size,,N,gift receipt
+LN-183,UORD-1100,2025-10-10,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-U-1009,City Beanie,Apparel,3,21.49,USD,0.1,,,US,Seattle, WA,14 inches,,N,gift receipt
+LN-184,UORD-1100,2025-10-10,EMU-102,EMU-M01,Emma,Wilson,Standard,emma_wilson@school.edu,Mastercard,SKU-U-1011,Pulse USB-C Hub,Tech,1,54.99,USD,0.05,0.0825,,US,Seattle, WA,,11 ounces,N,gift receipt
+LN-185,UORD-1102,2025-11-28,EMU-201,EMU-M03,Maya,Chen,Student,maya_chen@school.edu,Mastercard,SKU-U-1005,Halo Desk Lamp,Accessories,2,59.99,USD,0,0.07,194.37,US,,,,0.6 pound,N,gift receipt
+LN-186,UORD-1104,2025-11-02,EMU-201,EMU-M03,Grace,Hall,Student,grace_hall@school.edu,Cash,SKU-C-1012,Summit Laptop Stand,Accessories,1,39.99,USD,0,0.0825,,US,Seattle, WA,11 inches,,Y,late ship
+LN-187,UORD-1105,2025-11-14,EMU-301,EMU-M04,Aidan,Brown,Student,aiden_brown@school.edu,Mastercard,SKU-U-1003,ClickStorm Gaming Mouse,Tech,2,48.49,USD,0.05,,107.98,US,,,11 inches,,Y,manual discount ok
+LN-188,UORD-1106,2025-12-03,EMU-201,EMU-M03,Zoe,Garcia,Student,zoegarcia@gmail.com,Apple Pay,SKU-C-1006,TrailSip Bottle,Lifestyle,1,27,USD,0,0.0825,79.38,US,,,11 inches,,N,late ship
+LN-189,UORD-1108,2025-11-26,EMU-302,EMU-M04,Owen,Clark,Guest,,Cash,SKU-C-1010,GLIDE MOUSE PAD,Accessories,2,19.49,USD,0.05,,,US,Seattle, WA,,,Y,manual discount ok
+LN-190,UORD-1109,2025-10-10,EMU-302,EMU-M04,Ethan,Lee,Loyalty,ethan_lee@school.edu,Visa,SKU-C-1018,CloudSleeve Laptop Case,Accessories,1,32.49,USD,0.05,0.07,32.39,US,Austin, TX,11 inches,,N,gift receipt
+LN-191,CORD-1093,2026-05-01,EMC-401,EMC-M01,Grace,Hall,Guest,,Debit,SKU-C-1010,Glide Mouse Pad,Accessories,2,17.99,CAD,0,0.13,36.7,CA,,,one size,,N,manual discount ok
+LN-192,UORD-1109,2025-10-10,EMU-302,EMU-M04,Ethan,Lee,Loyalty,ethan_lee@school.edu,Visa,SKU-U-1013,InkTrail Journal,School,1,15.99,USD,0.1,,48.57,US,Austin, TX,,12 ounces,N,gift receipt
+LN-193,CORD-1094,2025-09-24,EMC-501,EMC-M03,Zoe,Garcia,Loyalty,,Visa,SKU-U-1009,City Beanie,Apparel,1,25.49,CAD,0.05,0.13,24.83,CA,Toronto, ON,,340 grams,N,manual discount ok
+LN-194,UORD-1110,2025-11-02,EMU-202,EMU-M03,Liam,Patel,Standard,liam_patel@school.edu,Apple Pay,SKU-U-1001,FROSTFLEX PHONE CASE,Accessories,1,20.99,USD,0,0.0825,64.77,US,,,,,N,late ship
+LN-195,UORD-1111,2025-11-13,EMU-202,EMU-M03,Ethan,Lee,Standard,,Visa,SKU-U-1019,STUDIO WEBCAM COVER,Accessories,1,7.99,USD,0.05,0.07,,US,Austin, TX,10 inches,,Y,gift receipt
+LN-196,CORD-1096,2025-10-19,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emma_wilson@school.edu,Apple Pay,SKU-C-1014,NoteNest Planner,School,3,17.99,CAD,0.05,0.13,19.43,CA,,,,340 grams,Y,late ship
+LN-197,UORD-1111,2025-11-13,EMU-202,EMU-M03,Ethan,Lee,Standard,,Visa,SKU-U-1001,FrostFlex Phone Case,Accessories,2,20.99,USD,0.05,0.07,21.59,US,Austin, TX,one size,,Y,manual discount ok
+LN-198,UORD-1112,2025-10-19,EMU-202,EMU-M03,Lucas,Taylor,Student,lucas.taylor@example.com,Cash,SKU-U-1013,InkTrail Journal,School,2,15.99,USD,0.1,,48.57,US,,,,12 ounces,Y,gift receipt
+LN-199,UORD-1113,2025-12-08,EMU-101,EMU-M01,Sofia,Nguyen,Student,sofia_nguyen@school.edu,Interac,SKU-U-1019,Studio Webcam Cover,Accessories,3,6.49,USD,0.1,0.07,17.26,US,Austin, TX,10 inches,,N,student promo
+LN-200,CORD-1096,2025-10-19,EMC-403,EMC-M02,Emma,Wilson,Loyalty,emma_wilson@school.edu,Apple Pay,SKU-U-1011,Pulse USB-C Hub,Tech,2,57.49,CAD,0,0.13,59.39,CA,,,,,Y,manual discount ok
