@@ -60,7 +60,7 @@ The reason this could be important for Northline  Outfitters is because it shows
 
 
 Business Justification:
-
+This helps identify high-value customers for loyalty rewards, promotions, and customer retention strategies.
 
 4.	Which customers generate the most total revenue?
 
@@ -68,7 +68,7 @@ Business Justification:
 
 
 Business Justification:
-
+This helps identify high-value customers for loyalty rewards, promotions, and customer retention strategies.
 
 5.	Which products are sold the most in terms of quantity?
 
@@ -76,20 +76,12 @@ Business Justification:
 
 
 Business Justification:
-
+This helps improve inventory management by identifying the most popular products and ensuring they remain in stock.
 
 6.	Which product categories generate the most revenue?
 
-SELECT 
-    cat.Category_name,
-    SUM(ol.line_total) AS total_revenue
-FROM Category cat
-JOIN Product p 
-    ON cat.Category_ID = p.Category_Category_ID
-JOIN Order_Line ol 
-    ON p.Product_sku = ol.Product_Product_sku
-GROUP BY 
-    cat.Category_name
-ORDER BY total_revenue DESC;
+<img width="684" height="504" alt="image" src="https://github.com/user-attachments/assets/f8c747f8-4595-4f55-9f20-515a7723f14f" />
+
 
 Business Justification:
+This helps management understand which product categories are the most profitable and where to focus future investments and promotions.
